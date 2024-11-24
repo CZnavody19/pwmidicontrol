@@ -1,10 +1,9 @@
-<Sinks>
-<5: USB Advanced Audio Device Analog Stereo>
-</Sinks>
+<Knobs>
+<1: Stream; Firefox Developer Edition>
+<5: Sink; USB Advanced Audio Device Analog Stereo>
+<6: Sink; CM106 Like Sound Device Analog Surround 5.1>
+<8: Source; USB Advanced Audio Device Analog Stereo>
+</Knobs>
 
-<Sources>
-</Sources>
-
-<Streams>
-<1: Firefox Developer Edition>
-</Streams>
+<Buttons>
+</Buttons>
